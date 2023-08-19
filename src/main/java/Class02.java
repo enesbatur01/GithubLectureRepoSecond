@@ -6,7 +6,9 @@ public class Class02 {
 
         System.out.println("v1 bu");
 
+        //V2
 
+        System.out.println("v2 bu");
     }
 
 }
