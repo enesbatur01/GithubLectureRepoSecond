@@ -13,6 +13,10 @@ public class Class02 {
         //V3
 
         System.out.println("v3 bu");
+
+        //V4
+
+        System.out.println("v4 bu");
     }
 
 }
