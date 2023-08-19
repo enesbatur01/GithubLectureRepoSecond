@@ -9,6 +9,10 @@ public class Class02 {
         //V2
 
         System.out.println("v2 bu");
+
+        //V3
+
+        System.out.println("v3 bu");
     }
 
 }
